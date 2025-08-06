@@ -1,7 +1,7 @@
-mysql> create database laa;
+mysql> create database lavanya;
 Query OK, 1 row affected (0.02 sec)
 
-mysql> use laa;
+mysql> use lavanya;
 Database changed
 mysql> INSERT INTO Sales (sale_id, product_id, quantity_sold, sale_date, total_price) VALUES
     -> (1,101,5,'2024-01-01',2500.00),
