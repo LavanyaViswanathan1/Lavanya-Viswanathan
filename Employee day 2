@@ -1,5 +1,5 @@
 mysql> create database lavanya3;
-Query OK, 1 row affected (0.06 sec)
+Query OK, 1 row affected (0.02 sec)
 
 mysql> use lavanya3;
 Database changed
