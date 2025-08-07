@@ -1,7 +1,7 @@
-mysql> create database lavanya3;
+mysql> create database db3;
 Query OK, 1 row affected (0.02 sec)
 
-mysql> use lavanya3;
+mysql> use db3;
 Database changed
 mysql> create table employee(EmpID int,Name varchar(50),Department varchar(50),Gender varchar(10),Salary decimal(10,2),Age int ,Experience int);
 Query OK, 0 rows affected (0.07 sec)
