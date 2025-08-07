@@ -1,7 +1,7 @@
-mysql> create database lavanya;
+mysql> create database db1;
 Query OK, 1 row affected (0.02 sec)
 
-mysql> use lavanya;
+mysql> use db1;
 Database changed
 mysql> CREATE TABLE Products (
     -> product_id INT PRIMARY KEY,
